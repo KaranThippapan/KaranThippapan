@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @KaranThippapan
 - 👀 I’m interested in Fullstack Developer
 - 🌱 I’m currently learning Fullstack developer in KodNest
--
 
 import java.util.Scanner;
 
